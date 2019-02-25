@@ -90,4 +90,4 @@ def print_table(board)
   puts board.graphic_table
 end
 
-#main
+main
